@@ -1,0 +1,6 @@
+/satgpt-venv/*
+.idea
+lib
+venv
+credible-bay-319408-77077ca1d717.json
+*.pyc
